@@ -7,15 +7,17 @@ Beer places in brum.
 - [ ] Albert Schloss
 - [ ] Brewdog
 - [ ] Craven arms
-- [ ] Head of Steam
 - [ ] Good Intent
+- [ ] Head of Steam
 - [ ] Post Office Vaults
 - [ ] Pure Bar
 - [ ] Sommar Brewing company
 - [ ] The Colmore
 - [ ] The Old Joint Stock
+- [ ] The Shakespeare (Summer Row)
 - [ ] The Victoria
 - [ ] The Wellington
+- [ ] The Woodman
 - [ ] Tilt
 - [ ] Two Towers brewery
 
@@ -31,6 +33,7 @@ Beer places in brum.
 - [ ] The Old Crown
 - [ ] The Ruin
 - [ ] The Spotted Dog
+- [ ] The White Swan
 - [ ] Zumhof Biergarten
 
 ## Kings Heath
@@ -57,7 +60,6 @@ Beer places in brum.
 - [ ] Glasshouse Brewery
 - [ ] Red Beerd
 
-
 ## Moseley
 
 - [ ] Prince of Wales
@@ -70,7 +72,6 @@ Beer places in brum.
 - [ ] Burning Soul
 - [ ] Hockley Social Club
 - [ ] The Wolf
- 
 
 ## Jewellery Quarter
 
