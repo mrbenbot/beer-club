@@ -13,6 +13,10 @@ Beer places in brum.
 - [ ] The Victoria
 - [ ] The Wellington
 - [ ] Tilt
+- [ ] Good Intent
+- [ ] Two Towers brewery
+- [ ] Craven arms
+- [ ] Sommar Brewing company
 
 ## Digbeth
 
@@ -20,12 +24,13 @@ Beer places in brum.
 - [ ] Digbrew
 - [ ] Halton Turner
 - [ ] Kilder
-- [ ] Ricardos
+- [ ] Robertos
 - [ ] The Anchor
 - [ ] The Old Crown
 - [ ] The Ruin
 - [ ] The Spotted Dog
 - [ ] Zumhof Biergarten
+- [ ] Autobrew
 
 ## Kings Heath
 
@@ -33,6 +38,8 @@ Beer places in brum.
 - [ ] The Hare and Hounds
 - [ ] The Juke
 - [ ] The Kingsway
+- [ ] The Station
+- [ ] Fletchers 
 
 ## Stirchley
 
@@ -40,6 +47,14 @@ Beer places in brum.
 - [ ] Birmingham Brewing Company
 - [ ] Cork and Cage
 - [ ] Wildcat
+- [ ] Bournbrook Inn
+- [ ] British Oak
+
+## Cotteridge
+
+- [ ] Glasshouse Brewery
+- [ ] Red Beerd
+- [ ] Cotteridge wines
 
 ## Moseley
 
@@ -53,8 +68,10 @@ Beer places in brum.
 - [ ] Burning Soul
 - [ ] Hockley Social Club
 - [ ] The Wolf
+ 
 
 ## Jewellery Quarter
 
 - [ ] 1000 Trades
 - [ ] Indian Brewery
+- [ ] Rock And Roll Brewery
