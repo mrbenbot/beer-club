@@ -4,6 +4,7 @@ Beer places in brum.
 
 ## Town Centre
 
+- [ ] Albert Schloss
 - [ ] Brewdog
 - [ ] Head of Steam
 - [ ] Post Office Vaults
