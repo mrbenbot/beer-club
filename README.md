@@ -5,21 +5,22 @@ Beer places in brum.
 ## Town Centre
 
 - [ ] Brewdog
+- [ ] Craven arms
 - [ ] Head of Steam
+- [ ] Good Intent
 - [ ] Post Office Vaults
 - [ ] Pure Bar
+- [ ] Sommar Brewing company
 - [ ] The Colmore
 - [ ] The Old Joint Stock
 - [ ] The Victoria
 - [ ] The Wellington
 - [ ] Tilt
-- [ ] Good Intent
 - [ ] Two Towers brewery
-- [ ] Craven arms
-- [ ] Sommar Brewing company
 
 ## Digbeth
 
+- [ ] Autobrew
 - [ ] Chance and Counters
 - [ ] Digbrew
 - [ ] Halton Turner
@@ -30,31 +31,31 @@ Beer places in brum.
 - [ ] The Ruin
 - [ ] The Spotted Dog
 - [ ] Zumhof Biergarten
-- [ ] Autobrew
 
 ## Kings Heath
 
+- [ ] Fletchers
 - [ ] Hop and Scotch
 - [ ] The Hare and Hounds
 - [ ] The Juke
 - [ ] The Kingsway
 - [ ] The Station
-- [ ] Fletchers 
 
 ## Stirchley
 
 - [ ] Attic
 - [ ] Birmingham Brewing Company
-- [ ] Cork and Cage
-- [ ] Wildcat
 - [ ] Bournbrook Inn
 - [ ] British Oak
+- [ ] Cork and Cage
+- [ ] Wildcat
 
 ## Cotteridge
 
+- [ ] Cotteridge wines
 - [ ] Glasshouse Brewery
 - [ ] Red Beerd
-- [ ] Cotteridge wines
+
 
 ## Moseley
 
